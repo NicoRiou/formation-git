@@ -5,3 +5,4 @@ Salade
 Cornichon
 Fromage
 Ketchup
+Frites
